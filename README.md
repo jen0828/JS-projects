@@ -4,7 +4,7 @@ Vanilla JavaScript projects practice
 
 ## How to run the apps:
 ```
-$ git clone git@github.com:jen0828/JS-projects.git
+$ git clone https://github.com/jen0828/JS-projects.git
 $ cd JS-projects
 $ cd 'project name'
 $ open index.html
